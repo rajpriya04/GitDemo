@@ -58,8 +58,10 @@ class TestOne(BaseClass):
         print(msg.text)
 
         assert "Success! Thank you! Your order will be delivered in next few weeks :-)." in msg.text, "Success msg didn't match"
+        print("hello")
         log.info("Msg is "+msg.text)
         self.driver.get_screenshot_as_file("Screenshot.png")
+
 
 
 
