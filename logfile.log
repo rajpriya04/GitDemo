@@ -1,0 +1,37 @@
+
+2022-05-21 09:39:07,817 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:39:08,370 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:39:08,370 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:39:42,652 :INFO :test_e2e :iphone X
+2022-05-21 09:39:42,683 :INFO :test_e2e :Samsung Note 8
+2022-05-21 09:39:42,699 :INFO :test_e2e :Nokia Edge
+2022-05-21 09:39:42,746 :INFO :test_e2e :Blackberry
+2022-05-21 09:39:48,440 :INFO :test_e2e :Msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-05-21 09:40:22,112 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:40:22,572 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:40:22,572 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 09:40:57,152 :INFO :test_e2e :iphone X
+2022-05-21 09:40:57,167 :INFO :test_e2e :Samsung Note 8
+2022-05-21 09:40:57,183 :INFO :test_e2e :Nokia Edge
+2022-05-21 09:40:57,199 :INFO :test_e2e :Blackberry
+2022-05-21 09:41:02,796 :INFO :test_e2e :Msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-05-21 12:28:32,236 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 12:28:32,942 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 12:28:32,942 :INFO :test_homePage :alert message: ×
+Success! The Form has been submitted successfully!.
+2022-05-21 12:28:57,944 :INFO :test_e2e :iphone X
+2022-05-21 12:28:57,974 :INFO :test_e2e :Samsung Note 8
+2022-05-21 12:28:58,004 :INFO :test_e2e :Nokia Edge
+2022-05-21 12:28:58,035 :INFO :test_e2e :Blackberry
+2022-05-21 12:29:03,783 :INFO :test_e2e :Msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
